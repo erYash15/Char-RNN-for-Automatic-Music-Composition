@@ -42,7 +42,7 @@ This code is written in Python 3, and it requires the
 
 ### Usage
 
-Type in terminal command in the root directory ( where this readme is present ).
+Type in terminal command in the root directory after downloading or cloning ( where this readme is present ).
 
 ```bash
 $ python train.py
@@ -54,8 +54,12 @@ $ python sample.py
 
 ### Credits:
 
-1. http://karpathy.github.io/2015/05/21/rnn-effectiveness/
-2. https://medium.com/datadriveninvestor/music-generation-using-deep-learning-85010fb982e2
-3. 
+1. Keunwoo Choi, George Fazekas, and Mark Sandler. 2016. Text-basedLSTM networks for automatic music composition. arXiv preprint
+arXiv:1604.05358 (2016).
+
+2. http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
+3. https://medium.com/datadriveninvestor/music-generation-using-deep-learning-85010fb982e2
+
 
 
