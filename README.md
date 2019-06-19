@@ -18,7 +18,7 @@ _Objective 3_ - Sample Creation
 
 #### Directories
 
-[datasets] - Contains all the training data [ABC version of the Nottingham Music Database](http://abc.sourceforge.net/NMD/) in .txt format 
+[datasets](https://github.com/erYash15/Char-RNN-for-Automatic-Music-Composition/tree/master/datasets) - Contains all the training data [ABC version of the Nottingham Music Database](http://abc.sourceforge.net/NMD/) in .txt format 
 
 [models] - Contains saved Model and Weights in h5 format.
 
