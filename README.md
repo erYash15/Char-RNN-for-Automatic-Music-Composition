@@ -18,11 +18,11 @@ _Objective 3_ - Sample Creation
 
 #### Directories
 
-_datasets_ - Contains all the training data [ABC version of the Nottingham Music Database](http://abc.sourceforge.net/NMD/) in .txt format 
+[datasets] - Contains all the training data [ABC version of the Nottingham Music Database](http://abc.sourceforge.net/NMD/) in .txt format 
 
-_models_ - Contains saved Model and Weights in h5 format.
+[models] - Contains saved Model and Weights in h5 format.
 
-_training_log_ - Contains training accuracy and training loss for every epoch in .csv format 
+[training_log] - Contains training accuracy and training loss for every epoch in .csv format 
 
 #### Codes
 
