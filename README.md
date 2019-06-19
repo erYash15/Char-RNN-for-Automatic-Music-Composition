@@ -19,13 +19,17 @@ _Objective 3_ - Sample Creation
 #### Directories
 
 _datasets_ - Contains all the training data [ABC version of the Nottingham Music Database](http://abc.sourceforge.net/NMD/) in .txt format 
+
 _models_ - Contains saved Model and Weights in h5 format.
+
 _training_log_ - Contains training accuracy and training loss for every epoch in .csv format 
 
 #### Codes
 
 [train.py] - processing data and training Models and saves the weights
+
 [model.py] - Create Models and functionality like saving and loading weights
+
 [sample.py] - Loads the models and create the new music data
 
 ### Requirements
