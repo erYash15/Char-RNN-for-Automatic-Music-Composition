@@ -55,7 +55,7 @@ $ python sample.py
 ### Credits:
 
 1. Keunwoo Choi, George Fazekas, and Mark Sandler. 2016. Text-basedLSTM networks for automatic music composition. arXiv preprint
-arXiv:1604.05358 (2016).
+arXiv:1604.05358 (2016).(https://arxiv.org/abs/1604.05358)
 
 2. http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
