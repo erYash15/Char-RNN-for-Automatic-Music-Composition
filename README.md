@@ -19,17 +19,13 @@ _Objective 3_ - Sample Creation
 #### Directories
 
 [datasets](https://github.com/erYash15/Char-RNN-for-Automatic-Music-Composition/tree/master/datasets) - Contains all the training data [ABC version of the Nottingham Music Database](http://abc.sourceforge.net/NMD/) in .txt format 
-
 [models]() - Contains saved Model and Weights in h5 format.
-
 [training_log]() - Contains training accuracy and training loss for every epoch in .csv format 
 
 #### Codes
 
 [train.py]() - processing data and training Models and saves the weights
-
 [model.py]() - Create Models and functionality like saving and loading weights
-
 [sample.py]() - Loads the models and create the new music data
 
 ### Requirements
